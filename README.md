@@ -65,7 +65,7 @@
 
 📚 **Cost** 
 📌 *Plataforma de controle de gastos para projetos*  
-🔗 [Veja o projeto]([https://github.com/LucasSamuel/RPG-Game](https://github.com/Lucassml-boop/Costs.git))
+🔗 [Veja o projeto](https://github.com/Lucassml-boop/Costs.git)
 
 ---
 
