@@ -27,16 +27,16 @@
 
 
 🛠️ **Ferramentas e Tecnologias**:
-<div style="display inline_block">
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+<div aling="center">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
 </div>
 
 📊 **Banco de Dados**:
-<div style="display inline_block">
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+<div aling="center">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">  
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
 </div>
 
 🔗 **Metodologias**:
