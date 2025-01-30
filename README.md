@@ -6,7 +6,7 @@
 
 ### 🚀 **Sobre mim**
 
-- 🔥 Buscando crescer como **desenvolvedor frontend** e aprimorar habilidades em **React e JavaScript**.
+- 🔥 Buscando crescer como **desenvolvedor** e aprimorar habilidades em **React e JavaScript**.
 - 🎯 Atualmente trabalhando como **auxiliar de escritório** e desenvolvendo projetos próprios.
 - 🏆 Criador de histórias e projetos interativos, como **manhwas de RPG e jogos no RPG Maker**.
 - 📚 Sempre aprendendo mais sobre **SQL, Python, C e desenvolvimento de software**.
