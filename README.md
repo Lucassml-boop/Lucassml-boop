@@ -45,21 +45,21 @@
 ### 📊 **Minhas Estatísticas**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSamuel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSamuel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucassml-boopl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassml-boop&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
 ### 📚 **Projetos em Destaque**
 
-🚀 **Repositório de Estudos em JavaScript** 
-📌 *Eventos para troca de classes no CSS com botão.*  
-🔗 [Acesse o repositório](https://github.com/LucasSamuel/JS-Eventos-CSS)
+🚀 **Sistema de Login e Cadastro** 
+📌 *Este é um sistema básico de login e cadastro com validação de campos e visualização de senha, utilizando HTML, CSS e JavaScript.*  
+🔗 [Acesse o repositório](https://github.com/Lucassml-boop/Estudos-e-Projetos-com-JavaScript-Manipula-o-de-Classes-CSS-com-Eventos.git)
 
-🎮 **Jogo no RPG Maker** 
-📌 *Um projeto interativo no estilo manhwa de RPG!*  
-🔗 [Veja o projeto](https://github.com/LucasSamuel/RPG-Game)
+📚 **Cost** 
+📌 *Plataforma de controle de gastos para projetos*  
+🔗 [Veja o projeto]([https://github.com/LucasSamuel/RPG-Game](https://github.com/Lucassml-boop/Costs.git))
 
 ---
 
@@ -67,6 +67,6 @@
 
 🔹 **GitHub:** [github.com/LucasSamuel](https://github.com/LucasSamuel)  
 🔹 **LinkedIn:** [linkedin.com/in/LucasSamuel](https://www.linkedin.com/in/LucasSamuel)  
-🔹 **E-mail:** lucassamuel@email.com  
+🔹 **E-mail:** lucas.samuel23borges@gmail.com  
 
 Se gostou do meu perfil, me adiciona no LinkedIn ou manda uma mensagem! 😃
