@@ -45,7 +45,8 @@
 ### 📊 **Minhas Estatísticas**
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassml-boop&layout=compact&langs_count=7&theme=dracula"/>&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   ![Luscas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucassml-boop
+&show_icons=true&theme=transparent)
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassml-boop&layout=compact&langs_count=7&theme=dracula"/>
 </div>
