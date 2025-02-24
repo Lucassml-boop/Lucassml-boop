@@ -59,10 +59,6 @@
 
 ### 📚 **Projetos em Destaque**
 
-🚀 **Sistema de Login e Cadastro** 
-📌 *Este é um sistema básico de login e cadastro com validação de campos e visualização de senha, utilizando HTML, CSS e JavaScript.*  
-🔗 [Acesse o repositório](https://github.com/Lucassml-boop/Estudos-e-Projetos-com-JavaScript-Manipula-o-de-Classes-CSS-com-Eventos.git)
-
 📚 **Cost** 
 📌 *Plataforma de controle de gastos para projetos*  
 🔗 [Veja o projeto](https://github.com/Lucassml-boop/Costs.git)
