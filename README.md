@@ -8,7 +8,6 @@
 
 - 🔥 Buscando crescer como **desenvolvedor** e aprimorar habilidades em **React e JavaScript**.
 - 🎯 Atualmente trabalhando como **auxiliar de escritório** e desenvolvendo projetos próprios.
-- 🏆 Criador de histórias e projetos interativos, como **manhwas de RPG e jogos no RPG Maker**.
 - 📚 Sempre aprendendo mais sobre **SQL, Python, C e desenvolvimento de software**.
 - 🎮 Amo jogar **Valorant, League of Legends e Age of Empires**.
 
