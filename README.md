@@ -75,6 +75,10 @@
 🔗 [Front-end](https://github.com/Lucassml-boop/barber-shop-front)
 🔗 [API](https://github.com/Lucassml-boop/barber-shop-api)
 
+📝 **Api List ToDo**
+
+📌 *API RESTful para gerenciamento de tarefas*
+🔗 [Veja o projeto](https://github.com/Lucassml-boop/Api-list-todo)
 ---
 
 ### 📫 **Onde me encontrar**
