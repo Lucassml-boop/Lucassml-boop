@@ -59,9 +59,21 @@
 
 ### 📚 **Projetos em Destaque**
 
-📚 **Cost** 
+📚 **Cost**
+
 📌 *Plataforma de controle de gastos para projetos*  
 🔗 [Veja o projeto](https://github.com/Lucassml-boop/Costs.git)
+
+🎌 **AnimeDataBase**
+
+📌 *Aplicação para busca e gerenciamento de animes com consumo de API*
+🔗 [Veja o projeto](https://github.com/Lucassml-boop/AnimeDataBase)
+
+💈 **Barber Shop**
+
+📌*Sistema completo para agendamento em barbearias (Front-end + API)*
+🔗 [Front-end](https://github.com/Lucassml-boop/barber-shop-front)
+🔗 [API](https://github.com/Lucassml-boop/barber-shop-api)
 
 ---
 
