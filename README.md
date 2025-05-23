@@ -51,7 +51,7 @@
 <div align="center">
   <a href="https://github.com/Lucassml-boop">
 [    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucassml-boop&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
-](https://github-readme-stats.vercel.app/api?username=Lucassml-boop&show_icons=true&theme=dracula&count_private=true&hide_border=true&token=SEU_TOKEN_AQUI)    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassml-boop&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+]    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassml-boop&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
   </a>
 </div>
 
